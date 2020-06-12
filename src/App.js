@@ -1,8 +1,10 @@
 import React from 'react';
 
+import './global.css';
+
 function App() {
   return (
-    <h1>Mirro Fashion</h1>
+    <h1>Mirror Fashion</h1>
   );
 }
 
