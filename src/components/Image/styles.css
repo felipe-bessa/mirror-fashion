@@ -1,0 +1,14 @@
+/* Image/styles.css */
+
+figure {
+  background-color: #f2eded;
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 15px;
+  margin: 30px;
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: 10px;
+}
