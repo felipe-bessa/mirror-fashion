@@ -1,0 +1,43 @@
+/* About/styles.css */
+
+#intro h1 {
+  background-image: url(../../assets/sobre-background.jpg);
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.aboutContent {
+  padding: 5px 45px;
+}
+
+.aboutContent li {
+  line-height: 25px;
+}
+
+.aboutTextFormat {
+  text-align: justify;
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  text-indent: 30px;
+}
+
+.subTitle {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #333;
+}
+
+#centro-distribuicao {
+  margin-left: auto;
+  margin-right: auto;
+  width: 590px;
+}
+
+#familia-pelho {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
+#diferentialArea {
+  padding-bottom: 30px;
+}
