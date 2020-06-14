@@ -1,0 +1,19 @@
+/* SocialMediaLinks/styles.css */
+
+.social {
+  position: absolute;
+  top: 12px;
+  right: 0;
+}
+
+.social li {
+  display: inline;
+}
+
+.social a {
+  margin-left: 10px;
+}
+
+.social label {
+  display: none;
+}
