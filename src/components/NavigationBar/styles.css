@@ -1,0 +1,21 @@
+/* NavigationBar/styles.css */
+
+header nav {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+header ul {
+  font-size: 15px;
+}
+
+header ul li {
+  display: inline;
+  margin-left: 20px;
+}
+
+header a {
+  color: #036;
+  text-decoration: none;
+}
