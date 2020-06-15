@@ -1,9 +1,19 @@
 // HOME PAGE
 import React from 'react';
+
 import './styles.css';
+
+import { Header } from '../../components/Header';
+import { Footer } from '../../components/Footer';
 
 export default function Home() {
   return(
-    <h1>Home</h1>
+    <div>
+      <Header />
+      <section>
+
+      </section>
+      <Footer />
+    </div>
   );
 }
